@@ -1,0 +1,14 @@
+@media screen and (min-width: 60px) and (max-width: 1200px) {
+    #home{
+        justify-content: flex-end;
+        
+    }
+    
+}
+
+#navbarNav,a{
+    padding-right: 900px;
+    margin: 5px
+
+
+}
